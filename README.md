@@ -12,9 +12,7 @@ Institution: Adventist University of Central Africa (AUCA)
 - **Database Name (PDB):** KEVIN27387
 
 ## 👨‍🏫 Lecturer:
-- **Name:** Dr. Niyigena Gilbert  
-- **Department:** Information Systems  
-- **Course:** Database Systems – PL/SQL Capstone Project  
+- **Name:** Eric Maniraguha
 
 ---
 
@@ -160,9 +158,7 @@ Results were verified using `SELECT`, `JOIN`, and `GROUP BY` statements. Edge ca
 For more information or academic references:
 
 - **Student:** Kevin  
-- **Email:** kevin@student.auca.ac.rw  
-- **Lecturer:** Dr. Niyigena Gilbert  
-- **Course:** Advanced Database Systems (PL/SQL)
+- **Lecturer:** Eric Maniraguha
 
 ---
 
